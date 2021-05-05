@@ -813,7 +813,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-svWMeaPGev .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 3.5rem);
   }
 }
 .cid-svWMeaPGev .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1035,6 +1035,8 @@ a {
   }
 }
 .cid-svWMO2G5vE {
+  padding-top: 10rem;
+  padding-bottom: 6rem;
   background-image: url("../../../assets/images/bab-604x401.jpg");
 }
 .cid-svWMO2G5vE .mbr-section-title {
